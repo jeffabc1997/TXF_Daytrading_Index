@@ -7,6 +7,9 @@
 your api_key
 your secret_key
 ```
+# 建立存放指標的檔案
+`python header.py`
+
 # Run
 ```
 python app.py

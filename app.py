@@ -178,6 +178,6 @@ if __name__ == '__main__':
             time.sleep(3)
         init()
         main()
-        bigforce_k().to_csv("大戶力道.csv", mode='a', header=False)
-        guadan_energy_k().to_csv("掛單能量.csv", mode='a', header=False)
+        bigforce_k().to_csv("deals.csv", mode='a', header=False)
+        guadan_energy_k().to_csv("pending_order.csv", mode='a', header=False)
         # time.sleep(3600)
