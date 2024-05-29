@@ -1,0 +1,7 @@
+*.csv
+shioaji*
+.vscode/
+password.txt
+/__pycache__
+/venvf
+/data_useless
